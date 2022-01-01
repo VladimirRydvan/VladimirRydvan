@@ -1,6 +1,9 @@
 ### Hi there 👋
+
+
 [![wakatime](https://wakatime.com/badge/user/9012e3ac-d80a-4c40-9108-c5421d7182a6.svg)](https://wakatime.com/@9012e3ac-d80a-4c40-9108-c5421d7182a6)
 
+<a href="https://wakatime.com/@9012e3ac-d80a-4c40-9108-c5421d7182a6"><img src="https://wakatime.com/badge/user/9012e3ac-d80a-4c40-9108-c5421d7182a6.svg" alt="Total time coded since Oct 10 2019" /></a>
 
 <!--
 **VladimirRydvan/VladimirRydvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
