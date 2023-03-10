@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Total time coded since Oct 10 2019 [![wakatime](https://wakatime.com/badge/user/9012e3ac-d80a-4c40-9108-c5421d7182a6.svg)](https://wakatime.com/@9012e3ac-d80a-4c40-9108-c5421d7182a6)
+Total time coded since Oct 10 2019 --> [![wakatime](https://wakatime.com/badge/user/9012e3ac-d80a-4c40-9108-c5421d7182a6.svg)](https://wakatime.com/@9012e3ac-d80a-4c40-9108-c5421d7182a6)
+
+[LeetCode profile](https://leetcode.com/VladimirRydvan/)
 
 <!--
 **VladimirRydvan/VladimirRydvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
